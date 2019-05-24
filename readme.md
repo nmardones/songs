@@ -11,7 +11,7 @@ nombre como titulo y todas sus canciones.
 ## Install Laravel Songs
 
 Descargar:
-> sudo git clone https://gitlab.com/nmardones/songs.git
+> sudo git clone https://github.com/nmardones/songs
 
 Ejecutar:
 > composer update
